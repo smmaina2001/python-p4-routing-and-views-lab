@@ -70,4 +70,5 @@ submit.
 
 - [A Minimal Application - Flask](https://flask.palletsprojects.com/en/2.2.x/quickstart/#a-minimal-application)
 - [Routing - Flask](https://flask.palletsprojects.com/en/2.2.x/quickstart/#routing)
+  canvas notes
 - [Chapter 2. Basic Application Structure - Flask Web Development, 2nd Edition](https://learning.oreilly.com/library/view/flask-web-development/9781491991725/ch02.html#idm140583868985008)
